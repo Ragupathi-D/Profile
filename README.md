@@ -4,3 +4,6 @@
 
 2021-12-22
   1. Is Web3 all Hype? Top 10 Web 3.0 Questions & Answers -> https://www.youtube.com/watch?v=wHTcrmhskto
+
+2021-12-29
+  1. Learn Resize Observer -> https://www.youtube.com/watch?v=M2c37drnnOA
