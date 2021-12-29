@@ -7,3 +7,4 @@
 
 2021-12-29
   1. Learn Resize Observer -> https://www.youtube.com/watch?v=M2c37drnnOA
+  2. Weekmap vs Weekset -> https://blog.logrocket.com/weakmap-weakset-understanding-javascript-weak-references/
