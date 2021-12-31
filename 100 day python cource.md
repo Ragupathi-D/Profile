@@ -3,3 +3,6 @@ I am now basic python code. i am move professional or properly to learn python c
 
 2021-12-31
   1. Day 1 - Beginner - Working with Variables in Python to Manage Data (01h :30 min)
+2021-12-01
+  1. Day 1 is complte
+  2. Day 2 chapter move
