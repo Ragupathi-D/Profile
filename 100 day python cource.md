@@ -9,3 +9,6 @@ I am now basic python code. i am move professional or properly to learn python c
   2. Day 2 chapter move
   3. Day 2 chapter complete
   4. Day 3 chapter progress
+  5. Day 3 chapter complete
+  6. Day 4 start
+  7. And i am start to learn random function
