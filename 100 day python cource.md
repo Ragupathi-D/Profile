@@ -12,3 +12,5 @@ I am now basic python code. i am move professional or properly to learn python c
   5. Day 3 chapter complete
   6. Day 4 start
   7. And i am start to learn random function https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences
+  8. Day 4 End
+  9. Day 5 start
