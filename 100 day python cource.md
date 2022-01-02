@@ -18,3 +18,6 @@ I am now basic python code. i am move professional or properly to learn python c
 2021-12-02
   1. Day 5 End
   2. Day 6 Start
+  3. I am first time to see this https://reeborg.ca/index_en.html. i am really existing.
+  4. Day 6 End
+  5. Day 7 Start
