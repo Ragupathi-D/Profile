@@ -52,3 +52,6 @@ I am now basic python code. i am move professional or properly to learn python c
 2021-12-06
   1. Day 18 Start 
   2. Day 18 End 
+
+2021-12-07
+  1. Day 19 Start
