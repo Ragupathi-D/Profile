@@ -4,7 +4,7 @@ I am now basic python code. i am move professional or properly to learn python c
 2021-12-31
   1. Day 1 - Beginner - Working with Variables in Python to Manage Data (01h :30 min)
 
-2021-12-01
+2022-01-01
   1. Day 1 is complte
   2. Day 2 chapter move
   3. Day 2 chapter complete
@@ -15,7 +15,7 @@ I am now basic python code. i am move professional or properly to learn python c
   8. Day 4 End
   9. Day 5 start
 
-2021-12-02
+2022-01-02
   1. Day 5 End
   2. Day 6 Start
   3. I am first time to see this https://reeborg.ca/index_en.html. i am really existing.
@@ -34,7 +34,7 @@ I am now basic python code. i am move professional or properly to learn python c
   16. Day 11 End
   17. Day 12 Start
 
-2021-12-04
+2022-01-04
   1. Day 12 End
   2. Day 13 Start
   3. Day 13 End
@@ -43,16 +43,19 @@ I am now basic python code. i am move professional or properly to learn python c
   6. Day 15 Start
   7. Day 15 End
 
-2021-12-05
+2022-01-05
   1. Day 16 Start
   2. Day 16 End
   3. Day 17 Start
   4. Day 17 End
 
-2021-12-06
+2022-01-06
   1. Day 18 Start 
   2. Day 18 End 
 
-2021-12-07
+2022-01-07
   1. Day 19 Start
   2. Day 19 End
+
+2022-01-08
+  1. Day 20 Start
