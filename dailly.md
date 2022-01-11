@@ -11,3 +11,4 @@
 
 2022-01-11
   1. Vue 3 Script Setup, The Future Of Vue? Tutorial And Setup -> https://www.youtube.com/watch?v=9uSNKIXH_AI
+  2. Custom Link React Router => https://stackblitz.com/github/remix-run/react-router/tree/main/examples/custom-link?file=src/App.tsx
