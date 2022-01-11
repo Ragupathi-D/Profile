@@ -8,3 +8,6 @@
 2021-12-29
   1. Learn Resize Observer -> https://www.youtube.com/watch?v=M2c37drnnOA
   2. Weekmap vs Weekset -> https://blog.logrocket.com/weakmap-weakset-understanding-javascript-weak-references/
+
+2022-01-11
+  1. Vue 3 Script Setup, The Future Of Vue? Tutorial And Setup -> https://www.youtube.com/watch?v=9uSNKIXH_AI
